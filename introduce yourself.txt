@@ -1,0 +1,16 @@
+khaled Elsaka
+in 2019.I have graduated from  faculty of computers and artificial intelligence Cairo university specializing in computer science as a major and information systems as a minor.
+my grade was very good with honor.
+after graduation, I've participated in IBM competition and acclaimed 18 badges from IBM digital nation Africa and we have reached the final stage.
+after that, I participated in another competition for Nasa.
+then I Started My military service till last June.
+
+I have worked for a freelancing project it was a desktop app for a restaurant using java applying all what i have learned in software engineering courses from taking the requirements from the client, analyzing it, and designing diagrams like database schema  and class diagram with Solid principles in mind to create more flexible, maintainable, Extensable and accesable system.
+I have used the MVC structure 
+for the database i have used Mysql linking with JDBC and using Sql queries.after that i started to search for ORM technology for java then i found the hibernate and I started to use it with the project while maintaining the same attitude.
+i uset Jasper report to create reports and printing receipts 
+the project got so big as it has many features that is suitable for all kinds of restaurants.
+
+Now  I am developing myself to revise and gain new knowledge and experience for Software engineering using Java and its related technology So i can't tell how I am soo excited for this opportunity 
+ that i see it fits me to start a career with and gain more knowledge and experience.
+
